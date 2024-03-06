@@ -9,3 +9,5 @@
     > "Um pequeno passo para o homem, mas um grande salto para a humanidade"
 
     > "Para o mundo eu não sou ninguém mas para você eu sou o mundo"
+
+    >carpe diem
